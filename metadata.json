@@ -1,0 +1,6 @@
+{
+  "name": "TechQuest: 2D Tech Puzzle Adventure",
+  "description": "An action-packed 2D puzzle adventure game exploring Python, Networking, Databases, and Machine Learning worlds with interactive coding challenges, platforming, and AI hints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
